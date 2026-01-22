@@ -1,2 +1,8 @@
-# DSA-ML-Insurance-Claim
-Building a predictive model to determine if a building will have an insurance claim during a certain period or not.
+# Insurance Claim Prediction
+
+This project builds machine learning models to predict the probability
+that a building will have at least one insurance claim based on building
+characteristics.
+
+## Notebook
+- [Insurance Claim Prediction](notebooks/insurance_claim_prediction.ipynb)
